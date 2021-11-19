@@ -131,8 +131,8 @@ WEIGHT_NEW <- 63
 # Weighing the Tbot regression				
 #                                   Tbot-NE 		
 #                                       Ttop-NE
-#                                               Slope of flux vs T at Ta < -35 (*1000)						
-#                                                           Number of negative daily correction at Ta < -10 (implausible)
+#                                                Slope of flux vs T at Ta < -35 (*1000)						
+#                                                            Number of negative daily correction at Ta < -10 (implausible)
 #                                    0	50		   0.90        161
 # Adjustemt for inclined sensor			50	50			 0.080				48
 #                                   55	45			-0.002				15
